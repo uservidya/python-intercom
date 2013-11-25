@@ -1,4 +1,4 @@
-nose
+#
 # Runtime dependencies.
 #
 requests==0.10.8
